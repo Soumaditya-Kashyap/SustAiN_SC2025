@@ -1,0 +1,25 @@
+#Wed Mar 19 01:43:13 IST 2025
+base.0=C\:\\Users\\infin\\Documents\\flutter-firebase-tutorial\\disaster_management_app\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\infin\\Documents\\flutter-firebase-tutorial\\disaster_management_app\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\infin\\Documents\\flutter-firebase-tutorial\\disaster_management_app\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=C\:\\Users\\infin\\Documents\\flutter-firebase-tutorial\\disaster_management_app\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.4=C\:\\Users\\infin\\Documents\\flutter-firebase-tutorial\\disaster_management_app\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.5=C\:\\Users\\infin\\Documents\\flutter-firebase-tutorial\\disaster_management_app\\android\\app\\build\\intermediates\\desugar_lib_dex\\debug\\classes1000.dex
+base.6=C\:\\Users\\infin\\Documents\\flutter-firebase-tutorial\\disaster_management_app\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.7=C\:\\Users\\infin\\Documents\\flutter-firebase-tutorial\\disaster_management_app\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=0/classes.dex
+path.3=12/classes.dex
+path.4=1/classes.dex
+path.5=classes1000.dex
+path.6=classes2.dex
+path.7=classes3.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
+renamed.5=classes6.dex
+renamed.6=classes7.dex
+renamed.7=classes8.dex
