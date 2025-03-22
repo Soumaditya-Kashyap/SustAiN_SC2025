@@ -66,11 +66,12 @@ Additionally, the system features **AI-driven disaster prediction models**, real
 
 ### Prerequisites
 Ensure you have the following installed:
-- Node.js
-- React.js
+- Flutter
+- Flutterfire
 - Firebase (for cloud storage and real-time database)
 - Python (for AI/ML components)
-- PostgreSQL (for structured data management)
+- Android Studio
+  
 
 ### Installation
 ```bash
