@@ -89,7 +89,7 @@ create apikey.dart (Put your open weather API key)
 
 - **Project Demo:** [Click Here](https://demo-link.com)
 - **GitHub Repository:** [SustAiN](https://github.com/Soumaditya-Kashyap/SustAiN_SC2025)
-- **MVP Link:** https://drive.google.com/drive/folders/1jwB7sbGwhrCTqIWk0Ew4x3pMM0EbMPRb?usp=drive_link
+- **MVP Link:** https://shorturl.at/oQtdK
 
 ## Contact Details
 
