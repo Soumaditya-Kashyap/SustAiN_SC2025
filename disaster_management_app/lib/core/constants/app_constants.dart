@@ -2,7 +2,7 @@ import 'apikey.dart';
 
 class AppConstants {
   // API Keys
-  static const String weatherApiKey = weatherApiKeyOpenweatherMap ;
+  static const String weatherApiKey = weatherApiKeyOpenweatherMap ; //Use Openweathermap API
   static const String weatherBaseUrl =
       'https://api.openweathermap.org/data/2.5';
 
