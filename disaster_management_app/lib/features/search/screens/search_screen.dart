@@ -92,7 +92,7 @@ class _SearchScreenState extends State<SearchScreen> {
             Padding(
               padding: const EdgeInsets.all(16),
               child: Container(
-                padding: const EdgeInsets.symmetric(horizontal: 16),
+                padding: const EdgeInsets.symmetric(horizontal: 8.0),
                 child: TextField(
                   controller: _searchController,
                   decoration: const InputDecoration(
