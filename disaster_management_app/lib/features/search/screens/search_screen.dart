@@ -74,7 +74,7 @@ class _SearchScreenState extends State<SearchScreen> {
     return Scaffold(
       appBar: const CustomAppBar(
         title: 'Search Rescue Centers',
-        showBackButton: true,
+        showBackButton: false,
       ),
       body: Container(
         decoration: BoxDecoration(
