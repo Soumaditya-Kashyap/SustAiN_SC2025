@@ -96,7 +96,7 @@ create apikey.dart (Put your open weather API key)
 | Name              | Email                         | GitHub Username  | LinkedIn Profile  |
 |-------------------|-------------------------------|------------------|------------------|
 | Soumaditya Kashyap | officialsoumaditya@gmail.com | Soumaditya-Kashyap   | [LinkedIn](https://www.linkedin.com/in/aayush-kumar-prasad-5108982b4/) |
-| Sanjay Barman    | sanjaybarman1179@gmail.com| SanjayBarman15  | [LinkedIn](www.linkedin.com/in/sneha-sharma-90012b296) |
+| Sanjay Barman    | sanjaybarman1179@gmail.com| SanjayBarman15  | [LinkedIn](https://www.linkedin.com/in/sanjay-barman15/) |
 | Sneha Sharma      | snehasnehasharma0918@gmail.com| SnehaSharma041   | [LinkedIn](www.linkedin.com/in/sneha-sharma-90012b296) |
 | Jenifa Rahman   |  jenifarahman258@gmail.com | Jenifa Rahman     | [LinkedIn](https://www.linkedin.com/in/jenifa-rahman-85a380293/) |
 
