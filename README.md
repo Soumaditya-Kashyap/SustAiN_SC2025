@@ -59,7 +59,7 @@ Additionally, the system features **AI-driven disaster prediction models**, real
    - Ensuring accessibility by adding multilingual support for disaster alerts and instructions.
 
 5.**Damage Assessment**
-  - Uses AI and drones to assess affected areas for better decision-making.
+   - Uses AI and drones to assess affected areas for better decision-making.
      
 
 ## Getting Started
